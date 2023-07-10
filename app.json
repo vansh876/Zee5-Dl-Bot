@@ -16,7 +16,7 @@
   ],
   "success_url": "",
   "website": "https://github.com/Tellybots",
-  "repository": "https://github.com/Tellybots",
+  "repository": "https://github.com/vansh876/Zee5-Dl-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -66,7 +66,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
